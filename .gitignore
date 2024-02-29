@@ -17,6 +17,9 @@ db*
 # ignore migration files
 migrations/
 
+# ignore src files
+src/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
